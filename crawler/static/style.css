@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+    max-width: 900px;
+    margin: auto;
+  }
+  
+  h1 {
+    color: #222;
+  }
+  
+  .item {
+    margin-bottom: 1.5rem;
+    padding: 0.5rem;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .positive {
+    color: green;
+  }
+  
+  .negative {
+    color: red;
+  }
+  
+  .neutral {
+    color: gray;
+  }
+  
+  .filters {
+    margin-bottom: 2rem;
+  }
+  
+  select,
+  button {
+    margin-right: 1rem;
+    padding: 0.4rem;
+  }
+  
+  .filters button[type="submit"] {
+    border: 1px solid #aaa;
+    background-color: #f8f8f8;
+    cursor: pointer;
+  }
+  
+  .filters button[type="submit"]:hover {
+    background-color: #eee;
+  }
+  
+  .filters button[type="submit"][style*="font-weight: bold;"] {
+    background-color: #d4eaff;
+    border-color: #3399ff;
+  }
+  

@@ -1,0 +1,422 @@
+[
+  {
+    "ticker": "AAPL",
+    "headline": "Apple (AAPL) Unveils 'Liquid Glass' Redesign, But AI Upgrades Leave Wall Street Cold",
+    "link": "https://finance.yahoo.com/news/apple-aapl-unveils-liquid-glass-184756015.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 18:47:56 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Warren Buffett Said Apple's Steve Jobs Asked, What Should We Do With 'All This Cash'? \u2014 Then Did Nothing That Buffett Told Him What to Do",
+    "link": "https://finance.yahoo.com/news/warren-buffett-said-apples-steve-173114132.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:31:14 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple (NasdaqGS:AAPL) Unveils New Products And OS Features Across Devices",
+    "link": "https://finance.yahoo.com/news/apple-nasdaqgs-aapl-unveils-products-171739055.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:17:39 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Jim Cramer isn\u2019t impressed with Apple\u2019s stock buybacks \u2014 Saylor offers a fix",
+    "link": "https://www.thestreet.com/crypto/markets/jim-cramers-apple-comment-elicits-a-blunt-4-word-response-from-michael-saylor?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:09:35 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple\u2019s WWDC Was \u2018Underwhelming.\u2019 Why Some Analysts Still Say Buy the Stock.",
+    "link": "https://finance.yahoo.com/m/5263a1e7-1bc4-39ec-9991-053507da28e4/apple%E2%80%99s-wwdc-was.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 16:52:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple's upgraded AI models underwhelm on performance",
+    "link": "https://techcrunch.com/2025/06/10/apples-upgraded-ai-models-underwhelm-on-performance/?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:59:44 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple's Developer Conference Updates 'More Evolutionary Than Revolutionary,' UBS Says",
+    "link": "https://finance.yahoo.com/news/apple-apos-developer-conference-updates-154641024.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:46:41 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "At WWDC 2025, Apple sang developers' praises amid AI letdowns and App Store battles",
+    "link": "https://techcrunch.com/2025/06/10/at-wwdc-2025-apple-sang-developers-praises-amid-ai-letdowns-and-app-store-battles/?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:43:28 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple's software makeover was years in the making",
+    "link": "https://finance.yahoo.com/news/apples-software-makeover-was-years-in-the-making-010435692.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:15:51 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple\u2019s iPad is about to get a lot more useful",
+    "link": "https://finance.yahoo.com/news/apples-ipad-is-about-to-get-a-lot-more-useful-213640019.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:50:33 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Citi adds Qorvo and Skyworks Solutions to 90-day upside catalyst watch",
+    "link": "https://finance.yahoo.com/news/citi-adds-qorvo-skyworks-solutions-143715375.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:37:15 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple's WWDC Was a 'Yawner,' Wedbush Says, But Analysts Are Still Bullish",
+    "link": "https://www.investopedia.com/apple-wwdc-was-a-yawner-wedbush-says-but-analysts-are-still-bullish-11751348?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:21:39 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "BlackRock, Goldman Scale Up Tax Trades in $3 Trillion SMA Boom",
+    "link": "https://finance.yahoo.com/news/blackrock-goldman-scale-tax-trades-141953472.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:19:53 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple WWDC: Liquid Glass redesign is a 'feather in Apple's cap'",
+    "link": "https://finance.yahoo.com/video/apple-wwdc-liquid-glass-redesign-141437827.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:14:37 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Here\u2019s why Citi says Apple stock is \u2019set up well\u2019 for 2026",
+    "link": "https://finance.yahoo.com/news/why-citi-says-apple-stock-140807539.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:08:07 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple Offers Little To Get Excited About At WWDC",
+    "link": "https://finance.yahoo.com/m/9a0db9fb-47db-3707-b23e-895267e80ca1/apple-offers-little-to-get.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:56:05 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "CoreWeave and Palantir Get Meme Stock Comparisons as Shares Soar",
+    "link": "https://finance.yahoo.com/news/coreweave-palantir-meme-stock-comparisons-114501977.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:34:24 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "May CPI, US-China trade talks, Apple's AI plans: 3 Things",
+    "link": "https://finance.yahoo.com/video/may-cpi-us-china-trade-130817231.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:08:17 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Trending tickers: Apple, Tesla, TSMC, Aberdeen",
+    "link": "https://uk.finance.yahoo.com/news/apple-tesla-tsmc-aberdeen-trending-tickers-130103283.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:01:03 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "AAPL",
+    "headline": "Apple Unveils Big UI Overhaul at WWDC: ETFs in Focus",
+    "link": "https://finance.yahoo.com/news/apple-unveils-big-ui-overhaul-130000739.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:00:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "These Stocks Are Moving the Most Today: Tesla, TSMC, McDonald\u2019s, Smucker, Insmed, Casey\u2019s, GameStop, and More",
+    "link": "https://finance.yahoo.com/m/6c1f32d6-b8f0-38f5-b31d-0be85c84a68b/these-stocks-are-moving-the.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 18:49:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Why Alphabet Stock Just Popped",
+    "link": "https://www.fool.com/investing/2025/06/10/why-alphabet-stock-just-popped/?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 18:23:54 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Alphabet Shares Climb After Reported Cloud Partnership With OpenAI",
+    "link": "https://finance.yahoo.com/news/alphabet-shares-climb-reported-cloud-170928331.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:09:28 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "OpenAI Enlists Google Cloud for Computing Capacity in Partnership of AI Rivals, Report Says",
+    "link": "https://www.investopedia.com/openai-enlists-google-cloud-for-computing-capacity-in-partnership-of-ai-rivals-report-says-11751548?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:02:37 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Can Snowflake's Gen2 Launch Drive Strong Product Revenue Growth?",
+    "link": "https://finance.yahoo.com/news/snowflakes-gen2-launch-drive-strong-162300667.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 16:23:00 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Surprise? OpenAI To Connect With Google Cloud For AI Data Center Capacity, Says Report",
+    "link": "https://finance.yahoo.com/m/a92d5459-e457-37a3-8cd7-3f92698f8eb9/surprise%3F-openai-to-connect.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:24:54 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Should You Buy, Sell, or Hold Adobe Stock Post Q2 Earnings?",
+    "link": "https://finance.yahoo.com/news/buy-sell-hold-adobe-stock-151300545.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:13:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "OpenAI to use Google cloud service alongside Microsoft",
+    "link": "https://finance.yahoo.com/news/openai-google-cloud-alongside-microsoft-142115688.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:21:15 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Exclusive-OpenAI taps Google in unprecedented cloud deal despite AI rivalry, sources say",
+    "link": "https://finance.yahoo.com/news/exclusive-openai-taps-google-unprecedented-134814870.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:48:14 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "CoreWeave and Palantir Get Meme Stock Comparisons as Shares Soar",
+    "link": "https://finance.yahoo.com/news/coreweave-palantir-meme-stock-comparisons-114501977.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:34:24 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Is Trending Stock Microsoft Corporation (MSFT) a Buy Now?",
+    "link": "https://finance.yahoo.com/news/trending-stock-microsoft-corporation-msft-130003150.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:00:03 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Market Chatter: Tech Group Reportedly Pleads With Senate to Keep Clean Energy Credits, Loan Guarantees",
+    "link": "https://finance.yahoo.com/news/market-chatter-tech-group-reportedly-122808646.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 12:28:08 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "5 Things to Know Before the Stock Market Opens",
+    "link": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-june-10-2025-11751304?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 11:31:18 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "IBM just took a 'significant' step toward useful quantum computing",
+    "link": "https://finance.yahoo.com/news/ibm-just-took-a-significant-step-toward-useful-quantum-computing-100048784.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 10:00:48 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Want to Invest in Quantum Computing? 3 Stocks That Are Great Buys Right Now.",
+    "link": "https://www.fool.com/investing/2025/06/10/want-to-invest-in-quantum-computing-3-stocks-that/?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 09:20:00 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "3 Monster Stocks -- including Nvidia -- to Hold for the Next 10 Years",
+    "link": "https://www.fool.com/investing/2025/06/10/monster-stocks-nvidia-to-hold-for-10-years/?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 08:15:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Reddit brands Anthropic as 'anything but' a white knight, heating up AI scraping wars",
+    "link": "https://finance.yahoo.com/news/reddit-brands-anthropic-as-anything-but-a-white-knight-heating-up-ai-scraping-wars-080025728.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 08:00:25 +0000",
+    "sentiment": "Negative"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Best $3 Trillion Stock to Buy Right Now: Apple, Microsoft, or Nvidia?",
+    "link": "https://www.fool.com/investing/2025/06/10/best-3-trillion-stock-to-buy-right-now-apple-micro/?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 07:24:00 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Watch These Microsoft Levels as Stock Hits Another Record High",
+    "link": "https://www.investopedia.com/watch-these-microsoft-levels-as-stock-hits-another-record-high-11750438?.tsrc=rss",
+    "timestamp": "Mon, 09 Jun 2025 21:51:55 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "MSFT",
+    "headline": "Amazon wants to become a global marketplace for AI",
+    "link": "https://finance.yahoo.com/news/amazon-wants-to-become-a-global-marketplace-for-ai-204947448.html?.tsrc=rss",
+    "timestamp": "Mon, 09 Jun 2025 20:49:47 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Tesla Stock Is Rising. Self-Driving Cars Are on the Roads in Austin.",
+    "link": "https://finance.yahoo.com/m/628f194c-59d0-3ec0-8e20-af67c7e023ae/tesla-stock-is-rising..html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 19:02:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "These Stocks Are Moving the Most Today: Tesla, TSMC, McDonald\u2019s, Smucker, Insmed, Casey\u2019s, GameStop, and More",
+    "link": "https://finance.yahoo.com/m/6c1f32d6-b8f0-38f5-b31d-0be85c84a68b/these-stocks-are-moving-the.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 18:49:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "India Races Clock as U.S. Tariffs Loom -- Deal Incoming?",
+    "link": "https://finance.yahoo.com/news/india-races-clock-u-tariffs-184627640.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 18:46:27 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "How to Make Up to $330,000 a Year at Tesla.",
+    "link": "https://finance.yahoo.com/m/054fdd36-81bc-3ddd-8a5c-1a9ab8d1f031/how-to-make-up-to-%24330%2C000-a.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:53:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Stocks to Watch Tuesday: Tesla, TSMC, Novo Nordisk",
+    "link": "https://finance.yahoo.com/m/7b2e2f7f-b6a1-3447-99d0-842446a2d63e/stocks-to-watch-tuesday%3A.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:23:48 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Tesla (TSLA) Stock Trades Up, Here Is Why",
+    "link": "https://finance.yahoo.com/news/tesla-tsla-stock-trades-why-170844454.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 17:08:44 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Morgan Stanley Seeks xAI Debt Buyers After Musk-Trump Feud",
+    "link": "https://finance.yahoo.com/news/morgan-stanley-hunts-xai-debt-213200040.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 16:53:43 +0000",
+    "sentiment": "Negative"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Top Analyst Cuts Tesla to 'Hold' as Robotaxi Optimism Faces Scrutiny",
+    "link": "https://finance.yahoo.com/news/top-analyst-cuts-tesla-hold-162739948.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 16:27:39 +0000",
+    "sentiment": "Positive"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Boeing orders, Tesla named AV operator, Sezzle-Shopify suit",
+    "link": "https://finance.yahoo.com/video/boeing-orders-tesla-named-av-160650407.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 16:06:50 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Can Elon Musk Deliver With the Robotaxi Reveal?",
+    "link": "https://finance.yahoo.com/video/elon-musk-deliver-robotaxi-reveal-154608969.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:46:08 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Musk\u2019s public clash with Trump likely calculated, says Morgan Stanley",
+    "link": "https://finance.yahoo.com/news/musk-public-clash-trump-likely-154126590.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 15:41:26 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Sell Tesla, Buy These 2 Stocks Instead, J.P. Morgan Says",
+    "link": "https://finance.yahoo.com/m/f8545e18-675b-3733-97f4-7549acd46de4/sell-tesla%2C-buy-these-2.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:43:00 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Baird Cuts Tesla to Hold as Musk's Role, Robotaxi Hype Create Uncertainty",
+    "link": "https://finance.yahoo.com/news/baird-cuts-tesla-hold-musks-141449285.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:14:49 +0000",
+    "sentiment": "Negative"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Tesla stock higher on robotaxi momentum, Musk-Trump feud cooling",
+    "link": "https://finance.yahoo.com/news/tesla-stock-higher-on-robotaxi-momentum-musk-trump-feud-cooling-140045751.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 14:00:45 +0000",
+    "sentiment": "Negative"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "This Stock Is a \u2018Direct Beneficiary\u2019 of the Trump-Musk Feud",
+    "link": "https://finance.yahoo.com/m/414b42cf-a736-325b-878f-47928a6530bb/this-stock-is-a-%E2%80%98direct.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:51:00 +0000",
+    "sentiment": "Negative"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Tesla, Intuitive Surgical downgraded: Wall Street\u2019s top analyst calls",
+    "link": "https://finance.yahoo.com/news/tesla-intuitive-surgical-downgraded-wall-134514290.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:45:14 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "CoreWeave and Palantir Get Meme Stock Comparisons as Shares Soar",
+    "link": "https://finance.yahoo.com/news/coreweave-palantir-meme-stock-comparisons-114501977.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:34:24 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Trending tickers: Apple, Tesla, TSMC, Aberdeen",
+    "link": "https://uk.finance.yahoo.com/news/apple-tesla-tsmc-aberdeen-trending-tickers-130103283.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 13:01:03 +0000",
+    "sentiment": "Neutral"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Tesla Stock Downgraded After Trump Feud",
+    "link": "https://finance.yahoo.com/video/tesla-stock-downgraded-trump-feud-123901000.html?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 12:39:01 +0000",
+    "sentiment": "Negative"
+  },
+  {
+    "ticker": "TSLA",
+    "headline": "Tesla Stock Extends Gains After Last Week's Drop From Musk-Trump Spat",
+    "link": "https://www.investopedia.com/tesla-stock-extends-gains-after-last-weeks-drop-from-musk-trump-spat-11751321?.tsrc=rss",
+    "timestamp": "Tue, 10 Jun 2025 12:31:15 +0000",
+    "sentiment": "Neutral"
+  }
+]

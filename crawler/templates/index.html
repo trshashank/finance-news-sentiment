@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Finance News Sentiment</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>Finance News Sentiment</h1>
+
+  <div class="filters">
+    <form method="get" action="/">
+      <label for="ticker">Ticker:</label>
+      <select name="ticker" id="ticker">
+        <option value="">All</option>
+        {% for t in tickers %}
+          <option value="{{ t }}" {% if request.args.get('ticker') == t %}selected{% endif %}>{{ t }}</option>
+        {% endfor %}
+      </select>
+
+      <div style="margin-top: 1rem;">
+        Sentiment:
+        {% for s in ["", "Positive", "Neutral", "Negative"] %}
+          <button
+            type="submit"
+            name="sentiment"
+            value="{{ s }}"
+            style="padding: 6px 12px; margin-right: 5px; {{ 'font-weight: bold;' if request.args.get('sentiment') == s else '' }}"
+          >
+            {{ "All" if s == "" else s }}
+          </button>
+        {% endfor %}
+      </div>
+    </form>
+
+    <div style="margin-top: 1rem;">
+      <a href="/export"><button type="button">Download CSV</button></a>
+    </div>
+  </div>
+
+  <p>Showing {{ news|length }} news item{{ '' if news|length == 1 else 's' }}.</p>
+
+  <div>
+    {% for item in news %}
+      <div class="item {{ item.sentiment|lower }}">
+        <strong>{{ item.ticker }}</strong> — {{ item.headline }}<br />
+        <span class="{{ item.sentiment|lower }}">{{ item.sentiment }}</span>
+      </div>
+    {% else %}
+      <p><em>No news items to show.</em></p>
+    {% endfor %}
+  </div>
+</body>
+</html>
