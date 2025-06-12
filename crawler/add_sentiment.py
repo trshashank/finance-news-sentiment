@@ -3,6 +3,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 
 # Load existing scraped news
 with open('crawler/data.json', 'r') as f:
+    import ast
     news_data = json.load(f)
 
 # Set up VADER sentiment analyzer
