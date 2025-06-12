@@ -1,12 +1,13 @@
 import feedparser
 import json
 import time
+import os
 
-# Stock tickers
-TICKERS = ['AAPL', 'MSFT', 'TSLA']
+TICKERS = ['AAPL', 'MSFT', 'TSLA']  # Default tickers
 
-# Yahoo RSS feed base URL
+DATA_FILE = 'crawler/data.json'
 RSS_URL = 'https://feeds.finance.yahoo.com/rss/2.0/headline?s={}&region=US&lang=en-US'
+
 
 def fetch_news_rss(ticker):
     url = RSS_URL.format(ticker)
@@ -23,20 +24,40 @@ def fetch_news_rss(ticker):
 
     return news_items
 
-def run_scraper():
-    all_news = []
+
+def update_all():
+    print("🔁 Updating all tickers...")
+    all_data = {}
+
     for ticker in TICKERS:
-        print(f"🔍 Fetching news for {ticker}...")
+        print(f"Fetching {ticker}...")
         news = fetch_news_rss(ticker)
-        print(f"✅ {len(news)} items found.")
-        all_news.extend(news)
-        time.sleep(1)  # avoid hitting feed too fast
+        all_data[ticker] = news
+        time.sleep(1)
 
-    # Save output
-    with open('crawler/data.json', 'w') as f:
-        json.dump(all_news, f, indent=2)
+    with open(DATA_FILE, 'w') as f:
+        json.dump(all_data, f, indent=2)
 
-    print(f"\n🎉 Done. Saved {len(all_news)} news items to crawler/data.json")
+    print("✅ All ticker data updated.\n")
+
+
+def update_ticker(ticker):
+    # Load current data
+    if os.path.exists(DATA_FILE):
+        with open(DATA_FILE) as f:
+            data = json.load(f)
+    else:
+        data = {}
+
+    # Fetch and update single ticker
+    print(f"🔄 Refreshing {ticker}...")
+    data[ticker] = fetch_news_rss(ticker)
+
+    with open(DATA_FILE, 'w') as f:
+        json.dump(data, f, indent=2)
+
+    print(f"✅ {ticker} updated.")
+
 
 if __name__ == "__main__":
-    run_scraper()
+    update_all()

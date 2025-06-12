@@ -33,6 +33,13 @@
       </div>
     </form>
 
+    <!-- ✅ ADD: Refresh ticker form -->
+    <form method="POST" action="/refresh" style="margin-top: 1rem;">
+      <label for="refresh-ticker">Refresh Ticker:</label>
+      <input type="text" name="ticker" id="refresh-ticker" placeholder="e.g. GOOGL" required />
+      <button type="submit">Fetch Latest News</button>
+    </form>
+
     <div style="margin-top: 1rem;">
       <a href="/export"><button type="button">Download CSV</button></a>
     </div>
@@ -43,7 +50,7 @@
   <div>
     {% for item in news %}
       <div class="item {{ item.sentiment|lower }}">
-        <strong>{{ item.ticker }}</strong> — {{ item.headline }}<br />
+        <strong>{{ item.ticker }}</strong> — <a href="{{ item.link }}" target="_blank">{{ item.headline }}</a><br />
         <span class="{{ item.sentiment|lower }}">{{ item.sentiment }}</span>
       </div>
     {% else %}
